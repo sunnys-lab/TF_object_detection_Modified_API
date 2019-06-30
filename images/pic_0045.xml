@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>pic_0045.jpg</filename>
+	<path>E:\PycharmProjects\TF_object_detection_Modified_API\images\pic_0045.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>432</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>simpson</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>66</ymin>
+			<xmax>191</xmax>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+</annotation>
